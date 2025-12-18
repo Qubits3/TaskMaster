@@ -10,3 +10,5 @@ Flags for priority tasks
 Category to group the tasks
 Description
 Sorting of tasks
+
+# Non-functional requirements
